@@ -7,5 +7,6 @@ Estudante de programação apaixonado por jogos e tecnologia, explorando o mundo
 <div style="display: inline_block">
 <img align="center "alt="flutter" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img align="center "alt="flutter" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img align="center "alt="flutter" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </div>
