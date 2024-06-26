@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Natanael 👋
 
-Estudante de Análise e Desenvolvimento de Sistemas, focado em aprender e aprimorar minhas habilidades como desenvolvedor backend. Estou sempre em busca de novos desafios para evoluir!
+Estudante de Análise e Desenvolvimento de Sistemas, focado em aprender e aprimorar minhas habilidades como desenvolvedor backend e sempre em busca de novos desafios para evoluir!
 
 ### Tecnologias
 <div style="display: inline_block">
